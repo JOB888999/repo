@@ -1,9 +1,9 @@
 {
-  "posts":
+  "posts":[
     {
       "date": "2066-08-15 17:57:01",
       "title": "hello"
-    }
+    }]
   ,
   "profile": {
     "name": "typicode"
